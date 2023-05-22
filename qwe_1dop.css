@@ -1,0 +1,31 @@
+td{
+	width: 30%
+}
+img{
+	width: 30%;
+}
+body{
+    text-align-last: center;
+}
+.qw-07{
+    align-self: center;
+    height: 6%;
+    color: rgb(0, 0, 0);
+    text-align-last: center;
+}
+table {
+    background-color: rgb(255, 0, 0);
+    Display: flex;
+    width: 80%;
+    height: 75%;
+    margin: 0% 10% 0% 10%;
+}
+.qw-08{
+    align-self: center;
+    height: 10%;
+    color: rgb(0, 0, 0);
+}
+
+.tableDiv{
+
+}
